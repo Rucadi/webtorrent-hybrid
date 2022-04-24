@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "create-torrent": "^5.0.0",
-    "webtorrent": "^1.0.0",
+    "webtorrent": "https://github.com/Rucadi/webtorrent",
     "webtorrent-cli": "^4.0.0",
     "wrtc": "^0.4.6"
   },
